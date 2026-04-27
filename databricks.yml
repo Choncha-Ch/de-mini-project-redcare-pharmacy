@@ -1,0 +1,9 @@
+bundle:
+  name: de-mini-project-redcare-pharmacy
+include:
+  - resources/*.yml
+targets:
+  dev:
+    default: True
+    workspace:
+      host: https://dbc-4bb04056-9caf.cloud.databricks.com/ 
