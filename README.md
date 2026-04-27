@@ -5,7 +5,8 @@ Order, inventory, and delivery operations pipeline
 
 ## Main goal
 Build a Databricks workflow that:
-- ingests raw sample data
+- ingests raw order files
+- prepares silver operational data
 - 
 
 ## Main folders
