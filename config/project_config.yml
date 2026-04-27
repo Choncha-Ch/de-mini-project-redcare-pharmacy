@@ -6,7 +6,7 @@ volumes:
   checkpoints: checkpoints
 
 paths:
-  order_subpath: orders 
+  orders_subpath: orders
 
 tables:
   bronze_orders: bronze_orders
