@@ -4,6 +4,6 @@ include:
   - resources/*.yml
 targets:
   dev:
-    default: True
+    default: true
     workspace:
       host: https://dbc-4bb04056-9caf.cloud.databricks.com/ 

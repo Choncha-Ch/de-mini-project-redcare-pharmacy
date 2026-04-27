@@ -12,7 +12,7 @@ tables:
   bronze_orders: bronze_orders
   silver_orders: silver_orders
   gold_daily_orders: gold_daily_orders
-  gold_order_status: gold_order_status
+  gold_status: gold_status
   gold_inventory_summary: gold_inventory_summary
 
 rules:
