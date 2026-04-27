@@ -7,7 +7,9 @@ Order, inventory, and delivery operations pipeline
 Build a Databricks workflow that:
 - ingests raw order files
 - prepares silver operational data
-- 
+- creates gold business summaries
+- runs quality checks
+- orchestrates with Databricks Jobs
 
 ## Main folders
 - config/ project settings
